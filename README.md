@@ -1,7 +1,7 @@
-## Hi there 👋, this is Howie Li.
+## Hi there 👋 This is Howie Lee.
 
 <!--
-**hhhowieli/hhhowieli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**HowiePix/HowiePix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -15,5 +15,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### About me
-I'm a Master of Peking University (PKU)
+### About Me
+
+* I am a Master of Peking University.
+* Now, I am interested in Generative AI.
+
+### Working Experience
+
+- [Shopee](https://shopee.com) 📌 2024.6 - 2024.9
+  - Position：Algorithm Intern
+
+- [Shopee](https://shopee.com) 📌 2025.7 - Now
+  - Position：Algorithm Engineering
+ 
+More information can be find in [here](https://baidu.com)
+
