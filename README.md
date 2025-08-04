@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋, this is Howie Li.
 
 <!--
 **hhhowieli/hhhowieli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### About me
+I'm a Master of Peking University (PKU)
