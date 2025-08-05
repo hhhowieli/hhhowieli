@@ -28,5 +28,5 @@ Here are some ideas to get you started:
 - [Shopee](https://shopee.com) 📌 2025.7 - Now
   - Position：Algorithm Engineering
  
-More information can be find in [here](https://baidu.com)
+More information can be find in [here](https://hhhowieli.github.io)
 
