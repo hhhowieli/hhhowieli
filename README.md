@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### About Me
 
-* I am a Master of Peking University.
+* I am a Master of Peking University <img src="https://www.pku.edu.cn/pku_logo_red.png" width = "50" height = "40"  align=center />.
 * Now, I am interested in Generative AI.
 
 ### Working Experience
