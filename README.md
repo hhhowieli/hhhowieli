@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ### Education
 
-<img src="https://www.pku.edu.cn/pku_logo_red.png" width = "50" height = "50"  align=center /> [PKU](https://www.pku.edu.cn). 2022.9 - 2025.6 - Master of Science in Computer Science
+<img src="https://www.pku.edu.cn/pku_logo_red.png" width = "50" height = "50"  align=center /> [Peking University](https://www.pku.edu.cn). 2022.9 - 2025.6 - Master of Science in Computer Science
 
 
 ### Working Experience
