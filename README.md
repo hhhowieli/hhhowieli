@@ -22,16 +22,16 @@ Here are some ideas to get you started:
 
 ### Education
 
-- <img src="https://www.pku.edu.cn/pku_logo_red.png" width = "50" height = "50"  align=center /> [PKU](https://www.pku.edu.cn) . 📌 2022.9 - 2025.6 - Master of Science in Computer Science
+- <img src="https://www.pku.edu.cn/pku_logo_red.png" width = "50" height = "50"  align=center /> [PKU](https://www.pku.edu.cn). 2022.9 - 2025.6 - Master of Science in Computer Science
 
 
 ### Working Experience
 
 - [Shopee](https://shopee.com) 📌 2024.6 - 2024.9
-  - Position：Algorithm Intern
+  - Position： Algorithm Intern
 
 - [Shopee](https://shopee.com) 📌 2025.7 - Now
-  - Position：Algorithm Engineering
+  - Position ：Algorithm Engineering
  
-More information can be find in [here](https://hhhowieli.github.io)
+More information can be found in [here](https://hhhowieli.github.io)
 
