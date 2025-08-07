@@ -17,13 +17,13 @@ Here are some ideas to get you started:
 
 ### About Me
 
-* I am a Master of Peking University <img src="https://www.pku.edu.cn/pku_logo_red.png" width = "50" height = "40"  align=center />.
+* I am a Master of Peking University 
 * Now, I am interested in Generative AI.
 
 ### Education
 
-- [PKU](https://www.pku.edu.cn) 📌 2022.9 - 2025.6
-  - 
+- [PKU](https://www.pku.edu.cn) <img src="https://www.pku.edu.cn/pku_logo_red.png" width = "50" height = "40"  align=center />. 📌 2022.9 - 2025.6
+  - Master of Science in Computer Science
 
 
 ### Working Experience
