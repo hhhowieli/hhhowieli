@@ -20,6 +20,12 @@ Here are some ideas to get you started:
 * I am a Master of Peking University <img src="https://www.pku.edu.cn/pku_logo_red.png" width = "50" height = "40"  align=center />.
 * Now, I am interested in Generative AI.
 
+### Education
+
+- [PKU](https://www.pku.edu.cn) 📌 2022.9 - 2025.6
+  - 
+
+
 ### Working Experience
 
 - [Shopee](https://shopee.com) 📌 2024.6 - 2024.9
