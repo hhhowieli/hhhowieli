@@ -28,9 +28,6 @@ Here are some ideas to get you started:
 
 ### Working Experience
 
-- [Shopee](https://shopee.com) 📌 2024.6 - 2024.9
-  - Position： Algorithm Intern
-
 - [Shopee](https://shopee.com) 📌 2025.7 - Now
   - Position ：Algorithm Engineering
 
