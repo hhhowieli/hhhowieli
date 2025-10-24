@@ -33,4 +33,6 @@ Here are some ideas to get you started:
 
 More information can be found in [here](https://hhhowieli.github.io)
 
+<!--
 ![Howie's github stats](https://github-readme-stats.vercel.app/api?username=hhhowieli&show_icons=true)
+-->
