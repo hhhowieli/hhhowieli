@@ -37,4 +37,4 @@ More information can be found in [here](https://hhhowieli.github.io)
 ![Howie's github stats](https://github-readme-stats.vercel.app/api?username=hhhowieli&show_icons=true)
 -->
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=hhhowieli
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hhhowieli)
